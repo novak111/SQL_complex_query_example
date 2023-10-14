@@ -1,4 +1,4 @@
-# SQL_commodity_price
+# SQL_complex_query_example
 
 An example of complex SQL query.
 
